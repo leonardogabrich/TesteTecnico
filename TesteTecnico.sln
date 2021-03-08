@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cadastro.API", "Cadastro.API\Cadastro.API.csproj", "{AD023148-53DF-4762-A0AA-FDB6D975547A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cadastro.Web", "Cadastro.Web\Cadastro.Web.csproj", "{8FF5881F-E56B-48F9-B1C9-2188EA4729FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD023148-53DF-4762-A0AA-FDB6D975547A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD023148-53DF-4762-A0AA-FDB6D975547A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD023148-53DF-4762-A0AA-FDB6D975547A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD023148-53DF-4762-A0AA-FDB6D975547A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF5881F-E56B-48F9-B1C9-2188EA4729FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF5881F-E56B-48F9-B1C9-2188EA4729FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF5881F-E56B-48F9-B1C9-2188EA4729FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF5881F-E56B-48F9-B1C9-2188EA4729FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67937126-6DA7-4E07-9B29-55A8DD0B83DE}
+	EndGlobalSection
+EndGlobal
